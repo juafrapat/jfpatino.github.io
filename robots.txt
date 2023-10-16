@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://juafrapat.github.io//sitemap.xml
+Sitemap: https://juafrapat.github.io/sitemap.xml
